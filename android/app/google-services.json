@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965914909551",
+    "project_id": "meddapp-df3bd",
+    "storage_bucket": "meddapp-df3bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965914909551:android:275159329fe9271814e69a",
+        "android_client_info": {
+          "package_name": "com.example.meddapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGL76YYTDjqpbaGZb_IAd88Z3ju5bQey0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
